@@ -855,3 +855,8 @@ section {
 .card-box1 {
   display: none;
 }
+
+.form{
+  display:block;
+  align-items: center;
+}
